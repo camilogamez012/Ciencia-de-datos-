@@ -1,13 +1,17 @@
-# Ciencia de Datos
+## Verificación de la Práctica
+
+| Verificación | Estado |
+|-------------|---------|
+| La práctica fue realizada y todos los archivos solicitados existen. | ✅ |
+| La práctica ejecuta correctamente sin errores y produce el resultado esperado. | ✅ |
+| El resultado, estructura y comportamiento coinciden con lo indicado en clase. | ✅ |
+| El estudiante puede explicar el código, las decisiones y los resultados. | ✅ |
+| Los cambios fueron integrados al repositorio acumulativo del semestre. | ✅ |
 
 ## Resumen de lo Aprendido
 
-Durante esta práctica se comprendieron los fundamentos de la Inteligencia Artificial y la importancia de abordar un sistema inteligente como la integración de datos, conocimiento, algoritmos, métricas y objetivos de negocio. También se estudió la evolución de la IA desde los sistemas basados en lógica y búsqueda hasta los modelos de aprendizaje automático y aprendizaje profundo utilizados actualmente. 【1-540052】
+Durante esta práctica se estudiaron los fundamentos de la Inteligencia Artificial, comprendiendo que un sistema inteligente no solo está compuesto por modelos de aprendizaje automático, sino también por datos, conocimiento, algoritmos, objetivos, métricas y mecanismos de validación. Se analizó la evolución histórica de la IA desde los sistemas basados en lógica y búsqueda hasta las técnicas modernas de aprendizaje profundo.
 
-En la parte práctica se configuró un entorno de desarrollo reproducible utilizando Python, VS Code, Git y un entorno virtual. Se aprendió a gestionar dependencias mediante un archivo `requirements.txt` y a mantener un repositorio organizado para el proyecto acumulativo del semestre. 【1-540052】
+En la parte práctica se configuró un entorno de desarrollo reproducible utilizando Python 3.13, Visual Studio Code, Git y GitHub. Además, se creó un entorno virtual para aislar dependencias y se utilizó un archivo `requirements.txt` para garantizar la reproducibilidad del proyecto.
 
-Adicionalmente, se implementó un primer modelo supervisado utilizando el conjunto de datos Iris y el algoritmo de Regresión Logística. Se realizó la división de datos en entrenamiento y prueba, el entrenamiento del modelo, la evaluación mediante la métrica de accuracy y el análisis de resultados con la matriz de confusión. 【1-540052】
-
-Finalmente, se reforzaron buenas prácticas de ingeniería de software como el uso de Git y GitHub para el control de versiones, la documentación del proyecto mediante README y la integración continua de las actividades en un único repositorio que servirá como base para el proyecto final de la asignatura. 【1-540052】
-
-python main.py
+Se implementó un modelo supervisado de clasificación utilizando el conjunto de datos Iris y el algoritmo de Regresión Logística. Durante el proceso se realizó la separación de datos en entrenamiento y prueba, el entrenamiento del modelo y la evaluación de su desempeño mediante la métrica Accuracy y la Matriz de Confusión.
